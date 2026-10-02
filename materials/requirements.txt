@@ -1,0 +1,7 @@
+# 강의자료 실행용 패키지 (키오스크 앱 패키지 포함)
+-r ../requirements.txt
+playsound==1.2.2
+matplotlib
+seaborn
+pydub
+jupyter

@@ -140,7 +140,7 @@ All lecture code reads `OPENAI_API_KEY` from the same root `.env`. Run each scri
 
 ## License
 
-Copyright © 2026 Coders CUK, Hyunjin Hwang. All rights reserved.
+Copyright © 2026 Hyunjin Hwang, Coders CUK. All rights reserved.
 
 This repository is provided for viewing and portfolio evaluation purposes only.
 

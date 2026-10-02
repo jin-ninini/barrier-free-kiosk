@@ -44,7 +44,7 @@ Cafe kiosks are designed around touch screens, which makes them hard to use for 
 | Data Analysis | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)  ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white) |
 | NLP & LLM | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white) |
 | Web App | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white) |
-| Speech | `sounddevice` (recording)  `pyttsx3` (TTS) |
+| Speech | ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square\&logo=openai\&logoColor=white)  ![pyttsx3](https://img.shields.io/badge/pyttsx3-306998?style=flat-square\&logo=python\&logoColor=white)  ![sounddevice](https://img.shields.io/badge/sounddevice-4B8BBE?style=flat-square\&logo=python\&logoColor=white) |
 
 <br>
 
@@ -135,3 +135,15 @@ All lecture code reads `OPENAI_API_KEY` from the same root `.env`. Run each scri
 - Recording length is fixed at 5 seconds, so long or short utterances can lower recognition accuracy
 - Drink names need an exact match in the transcript; the workflow diagram's GPT fallback recognition is not implemented yet
 - Future work: streaming STT, wake-word activation, and showing voice orders in the Streamlit cart
+
+<br>
+
+## License
+
+Copyright © 2026 Coders CUK. All rights reserved.
+
+This repository is provided for viewing and portfolio evaluation purposes only.
+
+No permission is granted to copy, modify, distribute, sublicense, publish, or commercially use any part of this project, including its source code, assets, documentation, design, or other contents, without prior written permission from the copyright holder.
+
+If you want to use this project or any portion of it, please obtain written permission from the repository owner in advance.
